@@ -74,6 +74,7 @@ evaluate_prompt("")
 - Build a CLI or web interface for easy prompt management
 
 📜 License:
+
 © 2025 Samuel Montgomery III. All rights reserved.
 
 The Prompt Optimizer and all associated code, modules, documentation, and assets
